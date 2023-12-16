@@ -1,8 +1,8 @@
 package org.example.service;
 
 import lombok.AllArgsConstructor;
-import org.example.model.FraudCheckHistory;
-import org.example.repository.FraudCheckHistoryRepository;
+import org.example.user.model.FraudCheckHistory;
+import org.example.user.repository.FraudCheckHistoryRepository;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;

@@ -1,6 +1,6 @@
-package org.example.repository;
+package org.example.user.repository;
 
-import org.example.model.FraudCheckHistory;
+import org.example.user.model.FraudCheckHistory;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

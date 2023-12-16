@@ -2,7 +2,7 @@ package org.example.api;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.example.model.FraudCheckResponse;
+import org.example.user.model.FraudCheckResponse;
 import org.example.service.FraudCheckService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
